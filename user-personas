@@ -1,0 +1,654 @@
+# User Personas
+## Herefordshire Aeroclub Member Platform
+
+---
+
+## Persona 1: Volunteer Member - Experienced Pilot (Primary User)
+
+### Profile
+**Name:** John Parker  
+**Age:** 56  
+**Occupation:** Senior Manager at a manufacturing company  
+**Flying Experience:** Private Pilot Licence (PPL), 8 years, ~400 hours total time  
+**Membership Duration:** 4 years  
+**Flying Frequency:** 2-3 times per month (weather permitting)  
+**Aircraft Flown:** PA-28, C172, Rallye  
+
+### Background
+John has been a PPL holder for 8 years and is a well-established member of Herefordshire Aeroclub. He learned to fly later in life after his children left home and now treats aviation as his primary hobby. He works full-time as a senior manager, which means he has limited weekday availability but is usually free on weekends and occasionally takes a Friday off for flying.
+
+John is passionate about the club and believes strongly in giving back to the aviation community. He's volunteered informally in the past (covering duty pilot shifts when asked) but finds the current ad-hoc system frustrating - he never knows when help is needed unless someone calls him directly, and he's had to turn down requests when they conflict with his own flying plans.
+
+He's not particularly tech-savvy but is comfortable with basic smartphone and web usage (online banking, email, WhatsApp). He prefers systems that are straightforward and don't require extensive training.
+
+---
+
+### Phase 1 Needs (Volunteer Management)
+
+**Goals:**
+- Give back to the club that helped him achieve his PPL
+- See when volunteer help is needed without waiting for phone calls
+- Book shifts that fit around his flying schedule and work commitments
+- Understand what training he needs before volunteering (he's flown for years but hasn't used the till system)
+- Get reminders so he doesn't double-book himself
+
+**Pain Points:**
+- Only knows help is needed when David calls him directly
+- Sometimes has to say no because he's already booked a flight
+- Unsure what the duty pilot role actually involves beyond "being there"
+- Has forgotten verbal commitments in the past (embarrassing)
+- Would help more often if he could see what was needed in advance
+- Interested in fire crew but doesn't know if that's even an option
+
+**User Stories:**
+- "As an experienced member, I want to see a calendar of volunteer needs so I can plan around my flying"
+- "As a volunteer, I want to know exactly what training I need before I commit"
+- "As a member, I want automatic reminders because I have a busy schedule"
+- "As someone who flies regularly, I want to avoid booking duty pilot on days I'm planning to fly"
+- "As a volunteer, I want to indicate interest in Fire Crew so I'm contacted when it launches"
+
+**Success Criteria:**
+- Can view volunteer needs and his own flying schedule in one place
+- Receives clear confirmation of what he's signed up for
+- Gets reminders that don't conflict with flight planning
+- Feels his contribution is valued and tracked
+- Doesn't accidentally double-book flying and volunteering
+
+---
+
+### Future Needs (Phase 2+)
+
+**Phase 2-3 (CRM & Multi-Role):**
+- View his complete volunteer contribution history
+- See recognition for his volunteering hours
+- Sign up for Fire Crew once available (he's interested in safety roles)
+- Update his availability preferences as work schedule changes
+
+**Phase 4 (Aircraft Booking):**
+- Book aircraft online instead of writing in the logbook
+- See aircraft availability before committing to volunteer shifts
+- Avoid scheduling conflicts between volunteering and flying
+- Check aircraft serviceability status before booking
+
+**Phase 5 (Payments):**
+- Pay membership renewal online (easier than cheque)
+- View his flying account balance
+- Pay for flying immediately after landing (convenience)
+- Download receipts for expense tracking
+
+**Phase 6+ (Full Platform):**
+- Access digital logbook
+- View his ratings and currency status
+- Access club documents and safety bulletins
+- Possibly help with mentoring student pilots (future volunteer role)
+
+---
+
+### Technology Profile
+**Devices:** Samsung Galaxy S22, Windows laptop (work)  
+**Tech Comfort Level:** Moderate - comfortable with basics, prefers simple interfaces  
+**Preferred Communication:** Email for non-urgent, phone call for urgent matters  
+**Usage Patterns:** Checks phone in evenings and weekends, desktop during work hours
+
+---
+
+### Quotes
+> "I want to help out, but I never know when they need people until David rings me - and sometimes I've already booked a flight that day."
+
+> "I've been flying for 8 years, but I wouldn't know where to start with the till system. If they need that, someone needs to show me first."
+
+> "It would be great to just look at a calendar, see what's available, and put myself down. Simple as that."
+
+> "I'd definitely be interested in fire crew stuff - I did fire safety training at work, might as well use it at the club too."
+
+---
+
+## Persona 2: Volunteer Member - Career Aspirant (Secondary User)
+
+### Profile
+**Name:** Sarah Thompson  
+**Age:** 26  
+**Occupation:** Technical Author for an aerospace company  
+**Flying Experience:** Private Pilot Licence (PPL), 1 year, ~100 hours total time  
+**Membership Duration:** 3 years (1 year as PPL holder, 2 years as student pilot)  
+**Flying Frequency:** 3-4 times per month  
+**Aircraft Flown:** C172, PA-28  
+**Career Goal:** Professional pilot (airline or corporate)
+
+### Background
+Sarah learned to fly at Herefordshire Aeroclub, completing her PPL 12 months ago after 18 months of training. Before that, she joined as a student member and has been part of the club community for 3 years total. The club feels like her second home - she knows all the instructors, many of the members, and genuinely cares about seeing it thrive.
+
+She works full-time as a technical author for an aerospace company (writing maintenance manuals and technical documentation), which gives her some flexibility with working hours and a decent salary to fund her aviation ambitions. She's serious about pursuing an aviation career and is actively building hours and ratings.
+
+With winter approaching and less VFR flying weather, Sarah is planning to use the quieter months productively:
+- **Night Rating** (winter is ideal for night flying training)
+- **Instrument Rating** (IMC/IR(R) to start, potentially full IR later)
+- **Theory exams** (CPL or ATPL ground school - she's researching which path)
+
+She's highly motivated, tech-savvy (works in a technical field), and eager to contribute to the club. Volunteering as a duty pilot would help her stay engaged with the club during periods when she's not flying as much, and she sees it as a way to learn more about airfield operations - valuable knowledge for a career pilot.
+
+---
+
+### Phase 1 Needs (Volunteer Management)
+
+**Goals:**
+- Stay connected to the club during winter when she's flying less
+- Learn about airfield operations (useful for career development)
+- Give back to the club that helped her achieve her PPL
+- Balance volunteering with her flight training schedule
+- Network with instructors and experienced pilots
+- Build a reputation as a committed club member
+
+**Pain Points:**
+- Training schedule changes frequently (weather, instructor availability) so hard to commit to fixed volunteer times
+- Wants to volunteer but doesn't want it to conflict with surprise good weather days
+- Needs flexibility - some weeks she's doing ground school, other weeks she's flying intensively
+- Currently no easy way to see volunteer needs that fit her changing schedule
+- Would help more if she could book/cancel easily as her training schedule shifts
+
+**User Stories:**
+- "As a career-focused pilot, I want volunteering to complement my training, not compete with it"
+- "As someone building a career in aviation, I want to learn about duty pilot operations"
+- "As a young member, I want to contribute to the club that gave me my start"
+- "As a student with flexible schedule, I want to book shifts at short notice when training gets cancelled"
+- "As someone with limited income (funding CPL training), I want to volunteer as my way of giving back"
+
+**Success Criteria:**
+- Can book volunteer shifts that work around her unpredictable training schedule
+- Can easily cancel if weather turns good and instructor is available
+- Feels she's contributing meaningfully to the club
+- Learns useful operational knowledge from duty pilot experience
+- Can indicate interest in future roles (Fire Crew, instructing assistant)
+
+---
+
+### Future Needs (Phase 2+)
+
+**Phase 2-3 (CRM & Multi-Role):**
+- Track her volunteer hours (looks good on CV for airline applications)
+- Express interest in "Instructing Assistant" role (future ambition)
+- View her training progression within the club
+- See her instructor ratings progress (when she becomes instructor)
+
+**Phase 4 (Aircraft Booking):**
+- **Critical**: Book aircraft for her night rating and IR training
+- See aircraft availability for week ahead (plan training efficiently)
+- Book instructor + aircraft in one transaction
+- Track her hour-building progress toward career goals
+- Receive booking confirmations with aircraft and instructor details
+
+**Phase 5 (Payments):**
+- Pay for flight training in installments (expensive ratings)
+- Set up payment plans for CPL/ATPL ground school courses
+- Track her flying account spending (budgeting for career training)
+- Apply any volunteer credits toward flying costs (if club offers this)
+
+**Phase 6+ (Full Platform):**
+- **Digital logbook** (essential for career - track hours, ratings, landings)
+- Upload training certificates (Night Rating, IR, CPL)
+- Track currency requirements (night currency, IR currency)
+- Access training syllabus and progress tracking
+- Eventually: Instructor scheduling when she becomes instructor
+
+---
+
+### Technology Profile
+**Devices:** iPhone 14, MacBook Pro (personal), work laptop  
+**Tech Comfort Level:** Very high - works in tech documentation, expects modern UX  
+**Preferred Communication:** WhatsApp, email, mobile-first  
+**Usage Patterns:** Constantly on phone, checks multiple times daily, expects instant updates
+
+---
+
+### Quotes
+> "I basically live at the club - I want to help out, especially in winter when I'm not flying as much VFR."
+
+> "If I could book duty pilot shifts around my training schedule, I'd do way more. But right now it's too rigid - I might book a slot then get a call from my instructor saying 'weather's good, let's fly'."
+
+> "Being duty pilot would actually teach me stuff I need to know as a career pilot - how airfields operate, dealing with visiting pilots, handling the unexpected."
+
+> "The club gave me my wings. Now I want to give something back while I'm working toward CPL."
+
+> "Winter is perfect for night rating and instrument training - less competition for aircraft and instructors. I'm going to use this time to build my ratings while everyone else is sitting at home."
+
+---
+
+## Persona 2: Operations Manager (Administrative User)
+
+### Profile
+**Name:** David Clarke  
+**Age:** 52  
+**Occupation:** Full-time Operations Manager at Herefordshire Aeroclub  
+**Flying Experience:** Commercial Pilot Licence (CPL), 3,500+ hours, EASA instructor  
+**Role Duration:** 8 years at the club  
+
+### Background
+David manages day-to-day airfield operations including duty pilot scheduling, safety oversight, and coordination with instructors. He's experienced with aviation operations but less comfortable with complex technology. He currently manages volunteer scheduling through a mix of phone calls, emails, WhatsApp messages, and a paper diary, which takes significant time and is error-prone.
+
+---
+
+### Phase 1 Needs (Volunteer Management)
+
+**Goals:**
+- Ensure every shift has qualified duty pilot coverage
+- Reduce time spent on scheduling coordination
+- Track which members are trained and qualified
+- Get early warning when coverage gaps exist
+- Prepare for Fire Crew volunteer expansion
+
+**Pain Points:**
+- Spends 2+ hours daily on scheduling (phone calls, emails, WhatsApp)
+- No centralized view of who's volunteered for what
+- Last-minute coverage gaps cause stress
+- Difficult to know who to call for emergency coverage
+- Can't easily see patterns (who volunteers most/least)
+- Knows Fire Crew needs similar system but dreads building it separately
+
+**User Stories:**
+- "As Ops Manager, I need a dashboard showing all shifts and their coverage status"
+- "As Ops Manager, I want automatic alerts when shifts are uncovered within 3 days"
+- "As Ops Manager, I need to approve volunteers who aren't fully trained"
+- "As Ops Manager, I want to see which members are interested in Fire Crew"
+- "As Ops Manager, I want to track member training status centrally"
+
+**Success Criteria:**
+- Spends <30 minutes/day on volunteer scheduling
+- Zero coverage gaps go unnoticed
+- Can approve/reject bookings in <1 minute
+- Has data for Fire Crew planning discussions
+- Reduced phone calls and emails about scheduling
+
+---
+
+### Future Needs (Phase 2+)
+
+**Phase 2-3 (Alerts & Multi-Role):**
+- Launch Fire Crew role with same system
+- Generate reports for committee meetings
+- Bulk email interested members
+- Advanced filtering (show me all Fire Crew trained members)
+
+**Phase 4 (Aircraft Booking):**
+- See unified view of aircraft availability and volunteer shifts
+- Prevent conflicts (member flying and on duty simultaneously)
+- Manage instructor scheduling
+- Track aircraft utilization
+
+**Phase 5 (Payments & CRM):**
+- Full member CRM (membership status, renewals, contact history)
+- Track payments and outstanding balances
+- Generate financial reports for committee
+- Manage membership renewals automatically
+
+**Phase 6+ (Operations):**
+- Flight logging oversight
+- Maintenance tracking integration
+- Safety incident reporting
+- Weather integration
+- Regulatory compliance tracking
+
+---
+
+### Technology Profile
+**Devices:** Windows laptop (club office), personal Android phone  
+**Tech Comfort Level:** Moderate - uses email, Word, Excel daily; less comfortable with complex software  
+**Preferred Communication:** Email for non-urgent, phone for urgent  
+**Usage Patterns:** Desktop during office hours (8am-5pm), phone for urgent after-hours
+
+---
+
+### Quotes
+> "I spend half my day just trying to figure out who's covering what shift."
+
+> "I need to know ASAP when we have a gap - not find out the day before."
+
+> "We need Fire Crew volunteers soon, but I can't face building another spreadsheet system."
+
+> "If I could see everything in one place, it would save me hours every week."
+
+---
+
+## Persona 3: Committee Member (Read-Only Oversight)
+
+### Profile
+**Name:** Margaret White  
+**Age:** 67  
+**Occupation:** Retired, former pilot, club treasurer  
+**Flying Experience:** PPL (no longer current), was active member for 20 years  
+**Committee Role:** Treasurer, 5 years  
+
+### Background
+Margaret is on the club committee and responsible for financial oversight. She's interested in operational efficiency and volunteer engagement as they impact the club's financial health and long-term sustainability. She doesn't need to manage day-to-day operations but wants visibility for planning and committee reporting.
+
+---
+
+### Phase 1 Needs (Volunteer Management)
+
+**Goals:**
+- Understand volunteer engagement levels
+- Access reports for committee meetings
+- See if volunteer system is working effectively
+- Plan budgets for future role expansion (Fire Crew)
+
+**Pain Points:**
+- No visibility into operations without asking David repeatedly
+- Can't access data for committee decision-making
+- Wants to understand if members are engaged
+- Needs to budget for Fire Crew but doesn't know demand
+
+**User Stories:**
+- "As committee member, I want read-only access to reports"
+- "As treasurer, I need to see volunteer participation rates"
+- "As committee, I want to understand member interest in future roles"
+- "As committee, I need data to make informed decisions about expansion"
+
+**Success Criteria:**
+- Can access reports without asking Operations Manager
+- Has data for quarterly committee meetings
+- Can see system costs and ROI
+- Understands member engagement trends
+
+---
+
+### Future Needs (Phase 2+)
+
+**Phase 2-3:**
+- Historical trend data (volunteer participation over time)
+- Fire Crew viability assessment (enough interest to launch?)
+- Member engagement analytics
+
+**Phase 4-5:**
+- Financial reports (payment processing, revenue)
+- Aircraft utilization reports
+- Member retention data
+- Budget vs. actual operational costs
+
+**Phase 6+:**
+- Strategic planning data
+- Growth projections based on trends
+- Compliance reporting
+- Grant application data
+
+---
+
+### Technology Profile
+**Devices:** iPad, occasionally uses desktop computer  
+**Tech Comfort Level:** Moderate - comfortable with basics but not technical  
+**Preferred Communication:** Email summaries, PDF reports  
+**Usage Patterns:** Accesses system monthly for committee prep, quarterly for detailed review
+
+---
+
+### Quotes
+> "I need numbers for the committee meeting - how many volunteers do we have?"
+
+> "Before we approve Fire Crew expansion, I need to know if members will actually volunteer."
+
+> "Can someone just send me a report instead of me having to dig through emails?"
+
+---
+
+## Persona 4: Potential Future Volunteer (Secondary)
+
+### Profile
+**Name:** Tom Roberts  
+**Age:** 28  
+**Occupation:** Software Engineer  
+**Flying Experience:** Student pilot, 20 hours  
+**Membership Duration:** 6 months  
+
+### Background
+Tom is a new member working toward his PPL. He's interested in getting more involved with the club but doesn't know what opportunities exist. He's tech-savvy and expects modern digital experiences.
+
+---
+
+### Phase 1 Needs
+
+**Goals:**
+- Discover volunteer opportunities
+- Understand what's required to participate
+- Easy signup process
+- See how volunteering benefits his club involvement
+
+**Pain Points:**
+- Doesn't know volunteer opportunities exist
+- Assumes volunteering requires extensive aviation experience
+- No clear path to getting involved beyond flying
+- Would volunteer if it was easy and visible
+
+**User Stories:**
+- "As new member, I want to see what volunteer opportunities exist"
+- "As student pilot, I want to know if I can volunteer despite limited experience"
+- "As member, I want to easily sign up and understand training requirements"
+
+---
+
+### Technology Profile
+**Devices:** iPhone 15 Pro, MacBook, Apple Watch  
+**Tech Comfort Level:** Very high - expects modern UX, mobile-first  
+**Preferred Communication:** App notifications, email  
+**Usage Patterns:** Mobile-first, expects instant responses
+
+---
+
+### Quotes
+> "I didn't even know they needed volunteers until I saw the poster."
+
+> "Oh, I could do that! I thought you had to be a senior pilot or something."
+
+---
+
+## Persona Priorities for Phase 1
+
+### Primary Focus
+1. **John (Experienced Volunteer)** - Must have excellent experience (represents core membership demographic)
+2. **Sarah (Career Aspirant)** - Must accommodate flexible scheduling (represents future of club)
+3. **David (Operations Manager)** - Must save significant time (system sponsor)
+
+### Secondary Focus
+4. **Margaret (Committee)** - Should have access to reports
+5. **Tom (Potential Volunteer)** - Should be able to discover and join easily
+
+---
+
+## User Journey Maps
+
+### John's Volunteer Journey (Phase 1)
+
+```
+DISCOVERY → CONSIDERATION → SIGNUP → BOOKING → REMINDER → COMPLETION → REFLECTION
+
+1. Sees email from club about new volunteer system
+2. Reads about duty pilot role and training requirements
+3. Visits public calendar, sees open shifts including weekends
+4. Thinks: "I could do the Saturday morning slots - don't usually fly that early"
+5. Creates account (email + password, takes 2 minutes)
+6. Completes profile (phone, availability: "Weekends preferred")
+7. Browses available duty pilot shifts
+8. Books Saturday morning shift 2 weeks away
+9. System checks: fully trained? NO → Status: Pending approval
+10. Receives email: "Thanks for volunteering! David will review and approve."
+11. David approves next day (John has aviation experience, just needs till training)
+12. Receives approval email + note from David: "Till training Friday 5pm, 30 mins"
+13. Attends training Friday evening
+14. Gets reminder email 3 days before: "Your duty pilot shift is Saturday"
+15. Gets final reminder 24 hours before with shift details
+16. Completes Saturday morning shift (8:30am-1pm)
+17. Feels good - helped club, learned something new
+18. (Future: Receives thank you, contribution logged)
+```
+
+### Sarah's Volunteer Journey (Phase 1)
+
+```
+DISCOVERY → SIGNUP → STRATEGIC BOOKING → FLEXIBILITY → CONTRIBUTION
+
+1. Sees poster in clubhouse about volunteer system
+2. Scans QR code, views public calendar on phone
+3. Sees several weekday afternoon shifts (when she's often free)
+4. Creates account during lunch break
+5. Completes profile, notes: "Flexible schedule, can do short notice"
+6. Indicates interest in future roles: ✓ Fire Crew, ✓ Instructing Assistant
+7. Books Wednesday afternoon shift next week (weather looks poor)
+8. Auto-approved (she's been around the club, David trusts her)
+9. Receives confirmation: "You're confirmed for Wednesday 1pm-5:30pm"
+10. Tuesday: Weather forecast improves, instructor texts about flying
+11. Sarah cancels shift via system (warning: <3 days, please call office)
+12. Calls David: "Sorry, instructor available tomorrow, can I fly instead?"
+13. David: "No problem, I'll cover it. Thanks for calling."
+14. Following week: Weather poor again
+15. Sarah books Thursday shift at short notice (3 days ahead)
+16. Completes shift, enjoys learning about operations
+17. Thinks: "This is actually useful for understanding how airfields work"
+18. Books 2 more shifts for upcoming month
+```
+
+### David's Daily Workflow (Phase 1)
+
+```
+MORNING CHECK → APPROVALS → GAP MANAGEMENT → REPORTING
+
+1. Logs into Operations Manager dashboard
+2. Reviews "Upcoming Uncovered Shifts" panel
+3. Checks "Pending Approvals" (2 members need approval)
+4. Reviews training status, approves both
+5. Sees alert: "Shift in 2 days uncovered"
+6. Checks member availability preferences
+7. Calls member with afternoon availability
+8. Manually assigns member to shift
+9. Member receives confirmation
+10. (Future: Weekly report auto-generated for committee)
+```
+
+---
+
+## Accessibility Considerations
+
+### John (Desktop + Mobile User, Less Tech-Savvy)
+- **Large, clear buttons** - Easy to tap/click without precision
+- **Simple navigation** - Maximum 3 clicks to any action
+- **Clear labeling** - No technical jargon, plain English
+- **Help text** - Tooltips and hints where needed
+- **Phone support** - Option to call if stuck
+- **Readable text** (16px+ base size, good contrast)
+
+### Sarah (Mobile-First, High Tech Expectations)
+- **Fast loading** (<2 seconds on 4G)
+- **Mobile-optimized** - Touch-friendly, thumb-zone design
+- **Quick actions** - Book shift in 2 taps from notification
+- **Offline capability** - View booked shifts without internet
+- **Push notifications** - Instant shift reminders and updates
+- **Modern UX** - Smooth animations, intuitive gestures
+
+### David (Desktop Primary, Efficiency Focus)
+- **Keyboard shortcuts** - Quick navigation for power users
+- **Batch operations** - Approve multiple bookings at once
+- **Printable reports** - For committee meetings
+- **Clear visual hierarchy** - Urgent items stand out
+- **Dashboard widgets** - All critical info at a glance
+
+### Margaret (Occasional User, Report Focus)
+- **Intuitive navigation** - Consistent, predictable layout
+- **Export capabilities** - PDF/Excel for offline review
+- **Help documentation** - Clear user guides
+- **Simple, uncluttered** - Focus on essential info
+- **Tooltips** - Explain terms and metrics
+
+---
+
+## Persona Evolution Across Phases
+
+### Phase 1: Volunteer Management
+- **John**: Duty pilot volunteer, learning systems
+- **Sarah**: Duty pilot volunteer, staying engaged during winter training
+- **David**: Manages duty pilot scheduling
+- **Margaret**: Reviews volunteer reports
+
+### Phase 3: Multi-Role
+- **John**: Duty pilot + Fire Crew volunteer (uses safety training from work)
+- **Sarah**: Duty pilot + interested in instructing assistant role
+- **David**: Manages multiple volunteer roles
+- **Margaret**: Reviews engagement across roles
+
+### Phase 4: Aircraft Booking
+- **John**: Books aircraft + manages volunteer shifts, avoids conflicts
+- **Sarah**: **Heavy user** - books aircraft for night rating/IR training + volunteers
+- **David**: Unified operations view (volunteers + aircraft)
+- **Margaret**: Aircraft utilization reports
+
+### Phase 5: Payments
+- **John**: Pays membership online, convenient flying fee payments
+- **Sarah**: **Critical user** - pays for expensive rating courses, payment plans for CPL ground school
+- **David**: Less payment admin, automated invoicing
+- **Margaret**: Financial reports and forecasting
+
+### Phase 6: Full Platform
+- **John**: Digital logbook, document storage, possibly mentors students
+- **Sarah**: **Power user** - digital logbook (career essential), tracks hours/currency, instructor when qualified
+- **David**: Complete operational platform
+- **Margaret**: Comprehensive reporting for strategic planning
+
+---
+
+## Key Insights for Design
+
+### From John's Persona
+1. **Simplicity is critical** - Experienced members may not be tech-savvy
+2. **Scheduling conflicts matter** - System must show volunteer shifts and flying in one view
+3. **Training transparency** - Make it clear what's required before committing
+4. **Recognition matters** - Long-time members want to see their contribution valued
+5. **Fire Crew interest** - Safety-conscious members are natural fit
+
+### From Sarah's Persona
+1. **Flexibility is essential** - Career-focused members have unpredictable schedules
+2. **Career integration** - Volunteering should complement, not compete with training
+3. **Modern UX expected** - Young members expect app-quality experiences
+4. **Future planning** - Phase 4 (aircraft booking) and Phase 6 (logbook) are critical for her
+5. **Community connection** - Volunteering keeps engaged during non-flying periods
+6. **Winter opportunity** - Ratings training (night, IR) drives different usage patterns
+
+### Design Implications
+- **Conflict detection** is must-have (Phase 4 integration with volunteer shifts)
+- **Quick cancellation** with courtesy notice (Sarah's use case)
+- **Multiple notification channels** (email for John, mobile for Sarah)
+- **Progressive disclosure** (simple for John, power features for Sarah)
+- **Long-term roadmap visibility** (Sarah needs to see aircraft booking is coming)
+
+---
+
+## Scenarios Where Personas Interact
+
+### Scenario 1: Shift Handover
+**John booked morning shift, Sarah covers afternoon**
+- John finishes at 1pm, updates handover notes in system
+- Sarah arrives at 1pm, sees John's notes about: visitor pilot arriving at 3pm, fuel delivery expected
+- Smooth handover, no information lost
+
+### Scenario 2: Training Coordination
+**David needs to train both John and Sarah on new till system**
+- David sees John and Sarah both need till training
+- Books group training session Friday 5pm (both confirmed available)
+- System sends invite to both, they confirm attendance
+- After training, David marks both as "Till System: Trained"
+
+### Scenario 3: Emergency Coverage
+**Sarah cancels last-minute due to surprise flying opportunity**
+- Sarah cancels Wednesday shift (2 days notice)
+- System alerts David immediately
+- David checks member list, filters by "Available Wednesdays"
+- Sees John marked weekends preferred, but tries anyway
+- John receives call, can't help (work meeting)
+- David manually assigns another member via system
+
+### Scenario 4: Future - Aircraft Booking Conflict Prevention
+**Phase 4: John tries to book flight on day he's duty pilot**
+- John goes to book G-ABCD Saturday 10am-12pm
+- System checks: You have Duty Pilot shift Saturday 8:30am-1pm
+- Error: "You can't book a flight during your volunteer shift. Cancel shift or choose different time."
+- John realizes conflict, books flight for Sunday instead
+
+---
+
+*Document Version: 1.0*  
+*Last Updated: October 1, 2025*  
+*Part of: Herefordshire Aeroclub Member Platform Specification*
