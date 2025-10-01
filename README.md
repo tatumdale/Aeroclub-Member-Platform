@@ -3,7 +3,8 @@
 
 
 **Mision**
-Modernise Herefordshire Aeroclub operations through a scalable, member-first digital platform that reduces administrative overhead, improves volunteer engagement, and enables data-driven decision making.
+
+The mission is to modernise Aeroclub operations through a scalable, member-first digital platform that reduces administrative overhead, improves volunteer engagement, and enables data-driven decision making.
 
 ## Core Principles
 
