@@ -7,7 +7,7 @@ Modernise Herefordshire Aeroclub operations through a scalable, member-first dig
 
 ## Core Principles
 
-**Member-First Design**
+1. **Member-First Design**
    - Simple, intuitive interfaces
    - Mobile-friendly access
    - Self-service where possible
